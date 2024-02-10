@@ -9,7 +9,7 @@ from app.action import Action
 action = {
     'action': 'CordCloud Action',
     'author': 'Yang Libin',
-    'github': 'https://github.com/yanglbme',
+    'github': 'https://github.com/Linuswangg',
     'marketplace': 'https://github.com/marketplace/actions/cordcloud-action'
 }
 
